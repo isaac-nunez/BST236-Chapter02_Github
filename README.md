@@ -12,3 +12,6 @@ This section is dedicated to testing how to resolve conflicts in Git. Conflicts 
 - Add more changes from upstream
 
 By practicing conflict resolution, you can ensure smooth collaboration in your projects.
+
+
+I made a couple of changes to test the commit functions
