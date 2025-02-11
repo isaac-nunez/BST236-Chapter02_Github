@@ -14,4 +14,6 @@ This section is dedicated to testing how to resolve conflicts in Git. Conflicts 
 By practicing conflict resolution, you can ensure smooth collaboration in your projects.
 
 
-I made a couple of changes to test the commit functions
+I made a couple of changes to test the commit functions.
+
+I made even more changes to the file.
